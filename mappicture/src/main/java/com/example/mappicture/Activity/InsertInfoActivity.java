@@ -20,6 +20,7 @@ public class InsertInfoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.insert_info_activity);
         helper = DbManger.getInstance(this);
+
     }
 
 
